@@ -18,4 +18,4 @@
 ---
 
 ## 🚀 Como Usar
-
+Você pode visualizar o projeto online através do [GitHub Pages](https://vinicius-rodrigues-adriano.github.io/code__conect/)
